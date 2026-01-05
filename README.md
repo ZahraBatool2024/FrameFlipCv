@@ -83,5 +83,19 @@ Press **q** to quit video playback
 
 - Optimize performance for large videos
 
+<div align="center">
+  
+## Contact & Contribution
 
+Have feedback, want to collaborate, or just say hello?  
+Let’s connect and build something useful together.
+
+📧 **Email:** zahraishaq2004@gmail.com    
+💻 [GitHub Repo](https://github.com/ZahraBatool2024/FrameFlipCv)
+
+Found this project useful? Give it a **star** on GitHub.  
+Want to improve it? Submit a **Pull Request** and contribute to enhancing this system.
+
+Your ideas and contributions help improve this real-time AI system.
+</div>
 
