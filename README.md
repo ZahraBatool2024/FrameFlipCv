@@ -38,6 +38,8 @@ The workflow of this project is:
 
 The video is loaded using `cv2.VideoCapture()`.
 
+https://github.com/ZahraBatool2024/FrameFlipCv/blob/main/videoToBeReverse.mp4
+
 ### 🔹 Step 2: Frame Extraction
 
 Each frame is:
@@ -48,6 +50,8 @@ Each frame is:
 
 ### 🔹 Step 3: Reverse Playback
 The frame list is reversed using Python’s `reverse()` function, and frames are displayed sequentially to create a reversed video effect.
+
+https://github.com/ZahraBatool2024/FrameFlipCv/blob/main/ReversedVideo.mp4
 
 ---
 <div align = "center">
@@ -68,9 +72,8 @@ cd FrameFlipCV
 - OpenCV
 
 ### 3️⃣ Run the Script
-```
-python reversevideo.py
-```
+
+python videoReverse.py
 
 ### 4️⃣ Controls
 
@@ -81,6 +84,7 @@ Press **q** to quit video playback
   
 ## 📌 Example Use Cases
 </div>
+
 - Video editing basics
 
 - Learning frame-level video processing
@@ -92,6 +96,7 @@ Press **q** to quit video playback
   
 ## 🌟 Future Improvements
 </div>
+
 - GUI interface
 
 - Support for different video formats
